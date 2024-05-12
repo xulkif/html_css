@@ -118,23 +118,15 @@
 
 
     
-    .btn{
-        width: 120px;
-        height: 30px;
-        padding: 5px;
-        margin-top: 10px;
-        margin-bottom: 5px;
-        border-radius: 10px;
-        border: 3px solid wheat;
-    }
-    .btn1{
-        width: 120px;
-        height: 40px;
-        padding: 5px;
-        margin-top: 10px;
-        margin-bottom: 5px;
-        border-radius: 10px;
-        border: 3px solid rgb(87, 86, 84);
+     
+    .btn, .btn1 {
+      width: 120px;
+      height: 40px;
+      padding: 5px;
+      margin-top: 10px;
+      margin-bottom: 5px;
+      border-radius: 10px;
+      border: 3px solid rgb(87, 86, 84);
     }
     .image1 {
         display: flex;
